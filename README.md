@@ -1,0 +1,2 @@
+# linuxlabs
+Linux Setup Details
