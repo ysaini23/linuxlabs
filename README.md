@@ -1,2 +1,2 @@
 # linuxlabs
-Linux Setup Details
+ Linux Setup Details
